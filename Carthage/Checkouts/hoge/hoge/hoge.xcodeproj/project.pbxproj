@@ -486,7 +486,6 @@
 				6126CB801BF45F58001F15E2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 		6126CB811BF45F58001F15E2 /* Build configuration list for PBXNativeTarget "hogeTests" */ = {
 			isa = XCConfigurationList;
@@ -495,7 +494,6 @@
 				6126CB831BF45F58001F15E2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 		6126CB841BF45F58001F15E2 /* Build configuration list for PBXNativeTarget "hogeUITests" */ = {
 			isa = XCConfigurationList;
@@ -504,7 +502,6 @@
 				6126CB861BF45F58001F15E2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 

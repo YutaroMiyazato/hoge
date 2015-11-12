@@ -1,1 +1,1 @@
-github "YutaroMiyazato/hoge" >= 0.1
+github "YutaroMiyazato/hoge" ~> v0.2
